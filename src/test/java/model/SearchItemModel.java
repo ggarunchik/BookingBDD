@@ -1,10 +1,10 @@
 package model;
 
-public class SearchItemModule {
+public class SearchItemModel {
 
     private String searchHotelValue;
 
-    public SearchItemModule(String searchHotelValue) {
+    public SearchItemModel(String searchHotelValue) {
         this.searchHotelValue = searchHotelValue;
     }
 
